@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "First Post!"
+date:   2015-04-14 17:37:10
+categories: update introductions
+---
+New site, new first post! This should give me an opportunity to test and work with Jekyll's capabilities,
+as well as the flexibility that Markdown offers. I hope to keep this going, because I need a place to express
+and share ideas and musings that isn't just Twitter... I constantly just end up retweeting EVERYTHING! :)
